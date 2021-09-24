@@ -1,0 +1,66 @@
+    body,main,footer {
+
+        background-image: linear-gradient(110deg,black,red,black,red);
+ 
+    margin: 4   rem; 
+    padding: 0; 
+    border: 0;
+}
+
+
+
+h1,h2,h3 { 
+font-family: Arial, Helvetica, sans-serif;
+color :white;
+font-size: large;
+}
+
+
+
+hr { 
+    border: 1px solid white;
+    border-radius: 10px;
+    
+}
+
+
+.h-social { 
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+
+.titulos{
+
+font-size: xx-large;
+color : aliceblue;
+font-family: 'Courier New', Courier, monospace;
+}
+
+.container { 
+    text-align: center;
+}
+
+.teste {
+text-align: center;   
+}
+
+.zile {
+    border-radius: 100px;
+    border-right-color: aliceblue;
+    border-left-color: rgb(240, 246, 255);
+    border-style: dotteds;
+    border: 5px solid white;
+
+}
+     
+    
+
+
+
+
+
+
+
+
+
+
